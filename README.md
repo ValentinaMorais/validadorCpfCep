@@ -1,3 +1,5 @@
+![Preview do projeto](./preview.png)
+
 # Validador de CPF e CEP - React
 
 Projeto simples em React para validar CPF e CEP brasileiros via formulário.
